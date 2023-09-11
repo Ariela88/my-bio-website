@@ -1,3 +1,3 @@
-import * as bootstrap from 'bootstrap'
+import './scss/styles.scss'
 
 import Alert from 'bootstrap/js/dist/alert';
